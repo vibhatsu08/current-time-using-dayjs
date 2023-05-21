@@ -13,9 +13,9 @@ Steps that i took to run this project successfully :- </br>
     output: {
         filename: "main.js", 
         publicPath: "dist"
-        }
-    }```
-    </br> Now each time you change index.js, you can run webpack with the command, ```./node_modules/.bin/webpack```, the reason for not including the rest of the code is, because webpack can now fetch all the necessary information from the config file.</br>
+    }
+};```
+</br> Now each time you change index.js, you can run webpack with the command, ```./node_modules/.bin/webpack```, the reason for not including the rest of the code is, because webpack can now fetch all the necessary information from the config file.</br>
 7 - Having evertyhing setip, the website can now use dayjs to print the current time to the screen/display. </br>
 
 
