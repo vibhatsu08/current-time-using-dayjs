@@ -1,0 +1,19 @@
+{
+  "name": "current-time-using-dayjs",
+  "version": "1.0.0",
+  "description": "Repository for current-time-using-dayjs, a lightweight JavaScript project that displays the current time and date using the Day.js library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  },
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
